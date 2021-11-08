@@ -146,8 +146,8 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072702448@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('richu.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918431014886@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('vicky.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['angene','beauty queen','bestie','bike','blackpink','bot','cr','exam','fight','football','friend','hacker','help','i love u','kozhi','Mishal','pani','peace','pever','poda','Richu','sad','sed','tentacion','thep','va','yadu','xxx','Bot','richu','bgm1','bgm2','bgm3','bgm4','bgm5','bgm6','bgm7','bgm8','bgm9','bgm10','bgm11','bgm12','bgm13','bgm14','bgm15','sad','scene','sed','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','oii','on','one','vanne','vannu','set','Fuck','love','broke','ohoo','Bye','pne','left','don','onn','stop','setta','entry','muth','Hi','chaya']
 array.map( async (a) => {
@@ -174,7 +174,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '15862077024@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '9188846797867@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['love','list','machu','menu','mute','onn','oo','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','Amal','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','amal','Hi','sad','don','Loki','bye']
