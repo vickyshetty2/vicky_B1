@@ -3,7 +3,7 @@
 ## Its_me_vicky
 
 <div align="center">
-  <IMG src=20211108_181338.jpg .jpg>
+  <IMG src=20211108_181804.jpg .jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vicky](<img src=20211108_181338.jpgjpg>
+  [![vicky](<img src=20211108_181338.jpg .jpg>
  https://github.com/vicky_b1 |  
 ----|
 [Its_me_vicky](https://github.com/vicky_b1)  |
