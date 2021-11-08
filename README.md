@@ -3,7 +3,7 @@
 ## Its_me_vicky
 
 <div align="center">
-  <IMG_20211107_200859_929.jpg>
+  <IMG src=vicky2 .jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+  [![vicky](<img src=vicky1.jpg.jpg>
+ https://github.com/vicky_b1 |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_vicky](https://github.com/vicky_b1)  |
 Base, Bug Fixes, Modules | 
   
     
