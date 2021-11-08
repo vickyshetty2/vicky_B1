@@ -3,7 +3,7 @@
 ## Its_me_vicky
 
 <div align="center">
-  <IMG src=vicky2 .jpg>
+  <IMG src=20211108_181338.jpg .jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
