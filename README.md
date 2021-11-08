@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vicky](<img src=vicky1.jpg.jpg>
+  [![vicky](<img src=20211108_181338.jpgjpg>
  https://github.com/vicky_b1 |  
 ----|
 [Its_me_vicky](https://github.com/vicky_b1)  |
